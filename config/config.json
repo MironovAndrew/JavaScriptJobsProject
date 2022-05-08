@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "090302-ist19_SAN",
+    "password": "090302-ist19",
+    "database": "090302-ist19_SAN",
+    "host": "84.201.184.150",
+    "dialect": "mysql",
+    "seederStorage": "json"
+  },
+  "test": {
+    "username": "090302-ist19_SAN",
+    "password": "090302-ist19",
+    "database": "090302-ist19_SAN",
+    "host": "84.201.184.150",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "090302-ist19_SAN",
+    "password": "090302-ist19",
+    "database": "090302-ist19_SAN",
+    "host": "84.201.184.150",
+    "dialect": "mysql"
+  }
+}
